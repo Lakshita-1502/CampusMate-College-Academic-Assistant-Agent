@@ -1,0 +1,1 @@
+"""CampusMate regression tests."""

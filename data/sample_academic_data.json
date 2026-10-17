@@ -1,0 +1,12 @@
+{
+  "notice": "DEMO/SAMPLE college data for project demonstration. Dates and policies are fictional and must be replaced with official college information.",
+  "assignments": [
+    {"subject": "NLP", "title": "NLP Assignment", "due_date": "2026-10-05"},
+    {"subject": "Compiler", "title": "Compiler Design Assignment", "due_date": "2026-10-08"},
+    {"subject": "Data Science", "title": "Data Science Project", "due_date": "2026-10-10"}
+  ],
+  "exams": [
+    {"subject": "NLP", "date": "2026-10-20"},
+    {"subject": "Compiler", "date": "2026-10-23"}
+  ]
+}
